@@ -12,15 +12,15 @@ Rapid identification of breaking events and percolation of relevant information 
 
 **Tools/packages**
 * [Scikit Mobility](https://github.com/scikit-mobility/scikit-mobility): Library for human mobility analysis in Python
-* [mobileDataToolkit](https://github.com/ekinugurel/mobileDataToolKit): Personal collection of convenience functions/ML tools for human mobility analysis
+* [mobileDataToolKit](https://github.com/ekinugurel/mobileDataToolKit): Personal collection of convenience functions/ML tools for human mobility analysis
 * [GeoPandas](https://geopandas.org/en/stable/): Library for geospatial data analysis in Python
 * [Rasterio](https://rasterio.readthedocs.io/en/latest/intro.html): Raster data library for Python
 
 ### Methodology
-After receiving access to satellite data, we plan on doing extensive data cleaning and analysis to see what type of events we can identify and match using both of our data sources across different geographies. Once we settle on a few events that we feel confident about going forward with, we plan on designing a simulation study of each event. This study would replicate the real-time availability of each dataset to gain an understanding of whether our proposed methodology leads to improvements in relevant variables, including emergency response times, information percolation speeds, etc. We expect to dig deeper into the context of our selected events, such as finding out about the availability of other data sources and the actual response time in order to benchmark our findings.
+After receiving access to satellite data, we plan on doing extensive data cleaning and analysis to see what type of major-scale events we can identify and match using both of our data sources across different geographies. Once we settle on a few events that we feel confident about going forward with, we plan on designing a simulation study of each event. This study would replicate the real-time availability of each dataset to gain an understanding of whether our proposed methodology leads to improvements in relevant variables, including emergency response times, information percolation speeds, etc. We expect to dig deeper into the context of our selected events, such as finding out about the availability of other data sources and the actual response time in order to benchmark our findings.
 
 ### Expected Outcomes
-Our proposed methodology is expected to outperform existing methods for data collection and information percolation for a range of use cases. We especially anticipate broad applicability in the following settings: events in rural areas, war-torn states, areas without network connectivity (i.e., for crowdsourcing), and national security matters.
+Our proposed methodology is expected to outperform existing methods for data collection and information percolation for a range of use cases. We especially anticipate broad applicability in the following settings: events in rural areas, extreme-weather events, war-torn states, areas without network connectivity (i.e., for crowdsourcing), and national security matters.
 
 ### References
 * González, M.C., Hidalgo, C.A., Barabási, A.-L., 2008. Understanding individual human mobility patterns. Nature 453, 779–782. https://doi.org/10.1038/nature06958
@@ -29,3 +29,11 @@ Our proposed methodology is expected to outperform existing methods for data col
 * Ji, M., Liu, L., Buchroithner, M., 2018. Identifying Collapsed Buildings Using Post-Earthquake Satellite Imagery and Convolutional Neural Networks: A Case Study of the 2010 Haiti Earthquake. Remote Sensing 10, 1689. https://doi.org/10.3390/rs10111689
 * Fayne, J., Bolten, J., Lakshmi, V., Ahamed, A., 2017. Optical and Physical Methods for Mapping Flooding with Satellite Imagery, in: Lakshmi, V. (Ed.), Remote Sensing of Hydrological Extremes, Springer Remote Sensing/Photogrammetry. Springer International Publishing, Cham, pp. 83–103. https://doi.org/10.1007/978-3-319-43744-6_5
 
+## Contact
+The authors can be contacted via email for any questions or help regarding this project.
+
++ Ekin Uğurel (ugurel [at] uw.edu)
++ Steffen Coenen (scoenen [at] uw.edu)
+
+## Documentation
+Further documentation can be found in the code. Each function and most code blocks contain their own comments and documentation with descriptions of e.g. function parameters.
