@@ -12,7 +12,7 @@ Rapid identification of breaking events and percolation of relevant information 
 
 **Tools/packages**
 * [Scikit Mobility](https://github.com/scikit-mobility/scikit-mobility): Library for human mobility analysis in Python
-* [mobileDataToolKit](https://github.com/ekinugurel/mobileDataToolKit): Personal collection of convenience functions/ML tools for human mobility analysis
+* [GPSImpute](https://github.com/ekinugurel/GPSImpute): Personal collection of convenience functions/ML tools for human mobility analysis
 * [GeoPandas](https://geopandas.org/en/stable/): Library for geospatial data analysis in Python
 * [Rasterio](https://rasterio.readthedocs.io/en/latest/intro.html): Raster data library for Python
 
