@@ -1,5 +1,9 @@
-data/mobile/
-data/satellite/
+data/mobile/*.csv
+data/mobile/*.xlsx
+data/satellite/*.tif
+
+# created by DataSpell
+.idea
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
