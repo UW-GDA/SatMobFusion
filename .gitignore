@@ -2,6 +2,8 @@ data/mobile/*.csv
 data/mobile/*.xlsx
 data/satellite/*.tif
 
+api_keys.py
+
 # created by DataSpell
 .idea
 
