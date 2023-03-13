@@ -1,0 +1,4 @@
+location,state,date_event,date_min,date_max,timezone,lon_min,lon_max,lat_min,lat_max,fn_satellite_pre,fn_satellite_post
+Tulsa,OK,2020-05-15 07:30:00-05:00,2020-05-01 00:00:00-05:00,2020-05-22 00:00:00-05:00,US/Central,-95.526,-95.254,35.571,35.659,20200509_164706_1034_3B_Visual.tif,20200518_163149_0e3a_3B_Visual.tif
+Tulsa_small,OK,2020-05-15 07:30:00-05:00,2020-05-01 00:00:00-05:00,2020-05-22 00:00:00-05:00,US/Central,-95.329,-95.317,35.606,35.613,,
+Champaign,IL,,2020-04-06 00:00:00-05:00,2020-04-08 00:00:00-05:00,US/Central,,,,,,
