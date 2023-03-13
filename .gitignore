@@ -1,6 +1,6 @@
-data/mobile/*.csv
-data/mobile/*.xlsx
-data/satellite/*.tif
+data/mobile/**/*.csv
+data/mobile/**/*.xlsx
+data/satellite/**/*.tif
 
 api_keys.py
 
