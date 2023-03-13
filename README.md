@@ -6,6 +6,8 @@ Rapid identification of breaking events and percolation of relevant information 
 
 **Objective**: Assess the extent to which high-resolution satellite imagery is a feasible alterantive or supplement to more established transportation data collection methods, such as cameras, crowdsourcing, and vehicle counters.
 
+![Motivational framework.](img/Anomaly detection in mobility metrics.png)
+
 **Datasets**: 
 * [Spectus Data](https://spectus.ai/): Passively-generated mobile data
 * [Planet Data](https://www.planet.com/): High-resolution, high frequency satellite imagery
